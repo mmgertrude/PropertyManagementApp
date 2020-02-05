@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MayumbaApp.Domain", "MayumbaApp.Domain\MayumbaApp.Domain.csproj", "{AF3EF6FB-6768-492B-83DA-C2EA2A31C692}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MayumbaApp.Data", "MayumbaApp.Data\MayumbaApp.Data.csproj", "{E5186BC6-299A-41AE-B697-E6D3E69CE35E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MayumbaAPI", "MayumbaAPI\MayumbaAPI.csproj", "{9312168B-1644-4296-8E41-DB1DEB34037A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3F324B64-9DF9-43DB-8A53-5E85226FA8A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF3EF6FB-6768-492B-83DA-C2EA2A31C692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF3EF6FB-6768-492B-83DA-C2EA2A31C692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF3EF6FB-6768-492B-83DA-C2EA2A31C692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF3EF6FB-6768-492B-83DA-C2EA2A31C692}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5186BC6-299A-41AE-B697-E6D3E69CE35E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5186BC6-299A-41AE-B697-E6D3E69CE35E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5186BC6-299A-41AE-B697-E6D3E69CE35E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5186BC6-299A-41AE-B697-E6D3E69CE35E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9312168B-1644-4296-8E41-DB1DEB34037A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9312168B-1644-4296-8E41-DB1DEB34037A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9312168B-1644-4296-8E41-DB1DEB34037A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9312168B-1644-4296-8E41-DB1DEB34037A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FA53205-28E9-47BF-99E1-FFB4CA391F5E}
+	EndGlobalSection
+EndGlobal
